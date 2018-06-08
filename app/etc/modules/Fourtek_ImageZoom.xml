@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Fourtek_ImageZoom>
+      <active>true</active>
+      <codePool>local</codePool>
+      <version>0.1.0</version>
+    </Fourtek_ImageZoom>
+  </modules>
+</config>
